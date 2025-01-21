@@ -1,0 +1,45 @@
+9781425989764,Beyond the Horizon,Sarah Mitchell,F
+0139451920,Quantum Computing Explained,David Carter,F
+9780872203490,Philosophy of Mind in the Digital Age,Christopher Davis,F
+0321501967,Game Design Fundamentals,Amanda Rodriguez,F
+9780553380958,The Art of Creative Writing,Brian Turner,F
+9780743234808,The Psychology of Decision Making,Patrick Wilson,F
+0321784421,Mobile App Development Essentials,Jennifer Moore,F
+9780596009205,Linux System Administration Guide,Kevin Foster,F
+0132824853,Data Mining Techniques,Rachel Taylor,F
+9780765326350,Astrophysics: A Beginner's Guide,Eric Powell,F
+0321197848,Human-Computer Interaction Principles,Megan Richardson,F
+9780321714114,Java Programming for Beginners,Daniel Clark,F
+0132149184,Networking Fundamentals,Michelle Ward,F
+9780307476463,The Science of Happiness,Samuel Bennett,F
+0321534468,Database Systems: Concepts and Applications,Olivia Nelson,F
+0134494164,Introduction to Robotics,Matthew Griffin,F
+9780596527358,Web Development with Django,Emma Cooper,F
+369852,Tdeki Silme Denemesi,Alper Kurtulus,F
+0321344758,Artificial Neural Networks,Liam Patterson,F
+0132119983,Network Security Essentials,Ethan Hughes,F
+9780765326954,The Universe and Beyond,Natalie Sanchez,F
+0321125215,Machine Learning Foundations,Zachary Phillips,F
+9780321334879,Advanced Web Development with PHP,Ava Miller,F
+9780470125344,Quantum Physics for Beginners,Stella Foster,F
+9780133459439,Computer Graphics and Visualization,Leah Turner,F
+9780321714114,Algorithms and Data Structures,Eva Martinez,F
+0135957052,Cybersecurity for Beginners,Noah Bennett,F
+9780765326350,The Nature of the Cosmos,Penelope Turner,F
+0321197848,Mobile App Design Principles,Aiden Murphy,F
+9780134599448,Data Analytics Essentials,Layla Butler,F
+0321534468,Computer Organization and Architecture,Riley Ward,F
+9780553375404,The Art of Digital Painting,Lily Turner,F
+0134494164,Introduction to Quantum Mechanics,Dylan Foster,F
+9780596527358,Full Stack Web Development,Paige Cooper,F
+0321344758,Introduction to Cryptography,Oliver Patterson,F
+9780321776410,JavaScript Programming Guide,Audrey Butler,F
+9780765326954,Beyond the Stars: Astronomy Guide,Maya Sanchez,F
+0321125215,Big Data Analytics,Benjamin Phillips,F
+9780321334879,Computer Networking Essentials,Zoey Miller,F
+0136100919,Game Design Principles,Caleb Turner,F
+9780470125344,Introduction to Machine Learning,Allison Foster,F
+0321502793,Introduction to Data Science,Samuel Richardson,T
+9780133459439,Programming in Java,Sophia Turner,F
+0321702117,HTML and CSS Basics,Eli Richardson,T
+136100919,,,F
